@@ -6,6 +6,9 @@ doscat is an HTTP DoS Test Tool.
 
 Attack Vector exploited: HTTP Keep Alive + NoCache
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-reason.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
 
 
@@ -39,3 +42,4 @@ This software is distributed under the GNU General Public License version 3 (GPL
 THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
 
 Author: Jan Seidl 
+
